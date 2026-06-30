@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 TARGET_DIR="$HOME/YouTube"
 ARCHIVE_FILE="$TARGET_DIR/archive.txt"
